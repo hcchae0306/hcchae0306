@@ -1,6 +1,6 @@
 # 안녕하세요
 ---
-Welcome Everything is fine.
+Welcome! Everything is fine.
 
 beginner.
 
