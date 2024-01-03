@@ -7,6 +7,6 @@ beginner.
 2022.09.19~   
 github) 2022.09.27~
 
-![hcchae0306](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repository?style=flat-square)
 
 [![hcchae0306](https://github-readme-stats.vercel.app/api?username=hcchae0306)](https://github.com/anuraghazra/github-readme-stats)
